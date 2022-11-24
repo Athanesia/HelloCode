@@ -1,0 +1,15 @@
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001.deps.json
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001.runtimeconfig.json
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001.dll
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/bin/Debug/net7.0/Example001.pdb
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.csproj.AssemblyReference.cache
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.AssemblyInfoInputs.cache
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.AssemblyInfo.cs
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.csproj.CoreCompileInputs.cache
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.dll
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/refint/Example001.dll
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.pdb
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/Example001.genruntimeconfig.cache
+/Users/athanesia/Desktop/Gb education/C#/Examples/Example001_HelloWorld/obj/Debug/net7.0/ref/Example001.dll
